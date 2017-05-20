@@ -1,0 +1,8 @@
+float64 length
+int32 rot_dir
+bool initial_move
+geometry_msgs/Point leftp
+geometry_msgs/Point rightp
+geometry_msgs/Point robot_startP
+---
+bool success
